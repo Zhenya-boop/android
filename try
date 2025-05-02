@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Perfekt Kundtjänst i Sverige</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background: #fdfdfd;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #004c99;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    nav {
+      background: #e6f0ff;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: #004c99;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #004c99;
+    }
+    footer {
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Perfekt Kundtjänst i Sverige</h1>
+    <p>Inspiration, insikter och idéer från verkligheten</p>
+  </header>
+
+  <nav>
+    <a href="#">Hem</a>
+    <a href="#">Om bloggen</a>
+    <a href="#">Kontakt</a>
+  </nav>
+
+  <div class="container">
+    <h2>De 3 största utmaningarna inom telefoni</h2>
+    <p>Kundtjänst inom telefoni har sina unika utmaningar. Här är de tre vanligaste:</p>
+    <ul>
+      <li><strong>1. Teknikproblem:</strong> När tekniken sviker, faller mycket ansvar på kundtjänsten att snabbt hitta lösningar och lugna frustrerade kunder.</li>
+      <li><strong>2. Otydliga avtal:</strong> Många kunder känner sig förvirrade eller lurade. Det krävs tålamod, tydlighet och empati för att vända en negativ känsla.</li>
+      <li><strong>3. Högt tempo och stress:</strong> Inkommande ärenden, långa köer och höga förväntningar – pressen är konstant, men lösningsfokus och rutiner gör skillnad.</li>
+    </ul>
+    <p>Följ bloggen för fler inlägg om hur vi gör svensk kundtjänst smartare, mänskligare och mer professionell.</p>
+  </div>
+
+  <footer>
+    © 2025 Perfekt Kundtjänst i Sverige – av Stjärnan ✨
+  </footer>
+
+</body>
+</html>
