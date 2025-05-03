@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tips till nya kollegor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background-color: white;
+      border-radius: 8px;
+    }
+    h1 {
+      color: #005f73;
+    }
+    a {
+      color: #0a9396;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Till dig som är ny i supporten</h1>
+  <p>Välkommen in i världens mest underskattade yrke! Här är några tips från mig till dig som är ny i kundtjänst:</p>
+
+  <h2>1. Du behöver inte kunna allt direkt</h2>
+  <p>Ingen förväntar sig att du ska kunna varje system, varje regel och varje felsökning direkt. Våga fråga – det är ett styrketecken.</p>
+
+  <h2>2. Lär dig grundfraser</h2>
+  <p>Ha några standardfraser redo för svåra lägen. Exempel: <i>“Jag förstår att det här är frustrerande, låt mig kolla vad vi kan göra.”</i></p>
+
+  <h2>3. Tänk på tonläge – även i text</h2>
+  <p>Små ord som “såklart” eller “vi gör så här istället” kan göra mycket. Mjuka, trygga formuleringar lugnar kunderna.</p>
+
+  <h2>4. Spara bra lösningar</h2>
+  <p>Om du löst något klurigt – skriv ner det. Det hjälper både dig och kollegor nästa gång det dyker upp.</p>
+
+  <h2>5. Stressa inte vid tuffa samtal</h2>
+  <p>Du är inte din kunds ilska. Ta en paus efter ett jobbigt samtal, hämta vatten eller prata med en kollega.</p>
+
+  <p><a href="index.html">&larr; Tillbaka till startsidan</a></p>
+</body>
+</html>
